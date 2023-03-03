@@ -12,4 +12,4 @@ BMI = (weight*703)/(height*height)
 The user gives three inputs to allow this program to calculate the BMI
 1. Name of the user into the name variable for customised output this variable is introduced.
 2. Weight
-3. Height after entering all the values our code calculates the person's BMI and gives the output whether he/she falls under Underweight or into further categ
+3. Height after entering all the values our code calculates the person's BMI and gives the output whether he/she falls under Underweight or into further categories
